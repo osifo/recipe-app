@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "679806339574",
+    "firebase_url": "https://packt-recipe-app.firebaseio.com",
+    "project_id": "packt-recipe-app",
+    "storage_bucket": "packt-recipe-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679806339574:android:4d5ad31b321a2dc1",
+        "android_client_info": {
+          "package_name": "com.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679806339574-qqqnps4ldbb2lcnocbr2dkda0bo8ut70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcHQmXs1HV-iDZaQKXZ-hWs1Ouk3MNgbY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
